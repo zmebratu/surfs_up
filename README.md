@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Purpose 
-The purpose of this analysis was to compare the temperature trends in order to determine if a surf and ice cream shop would be profitable. By using SQLAlchemy, Python and Pandas, the summary statistics for December and June will be obtained.
+The purpose of this analysis was to compare the temperature trends in order to determine if a surf and ice cream shop would be profitable. By using SQLAlchemy, Python and Pandas, the summary statistics for December and June was obtained.
 
 ## Results
 * The minimum temperature in December is 56
