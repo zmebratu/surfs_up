@@ -14,5 +14,4 @@ The purpose of the analysis is to attract investors with visualizations of a ful
 
 ## Summary
 
-## Suggestion of additional analysis
 Hawaii only has two weather stations, one for summer and one for winter, but even during the winter season, the weather is mild and there is no cold weather. Therefore, locals and tourists visit the island all year round, making it an excellent location for this type of startup. With proper organization and administration, this business has great potential for growth in the region.
